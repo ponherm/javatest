@@ -9,8 +9,6 @@ public class Main {
 			"おわり"
 	};
 	
-	// コメント追加
-	
 	private static final char g = 'g';
 	private static final char c = 'c';
 	private static final char p = 'p';

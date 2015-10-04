@@ -7,7 +7,7 @@ public class Main2 {
 
 	public static void main(String[] args) {
 		
-		// 数字読み取り
+		// 数字読み取り。
 		System.out.println("0：グー 1：チョキ 2：パー");
 		Scanner scn = new Scanner(System.in);
 		int input = scn.nextInt();
